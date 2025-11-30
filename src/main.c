@@ -1,6 +1,7 @@
-# include <stdio.h>
+#include "utilities/utilities.h"
 
 int main() {
-    printf("Hello, C Template World!\n");
+    print_message("Hello, C Template World!\n");
+    
     return 0;
 }
