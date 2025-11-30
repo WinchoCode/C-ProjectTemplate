@@ -23,6 +23,7 @@
                 //"${workspaceFolder}/src/main.c",
                 "-I",
                 "C:/Users/edwin/gitProjects/C-ProjectTemplate/src/utilities",
+                //"C:/Users/edwin/gitProjects/C-ProjectTemplate/src/**",
                 "-o",
                 "C:/Users/edwin/gitProjects/C-ProjectTemplate/build/main.exe"
                 //"${workspaceFolder}/build/main.exe"
